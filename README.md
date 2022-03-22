@@ -1,0 +1,2 @@
+# ArduinoRCServoMotor
+This is a simple Arduino sketch of Controlling a servo motor using 6 Channel Radio 2.4GHZ Turnigy and Receiver. The goal is to introduce arduino in the middle between the servo and the receiver so we can let the microcontroller have automated control over the servo when the user input isn't present for example. I am sharing this to those arduino enthusiasts who want to learn to program. 
